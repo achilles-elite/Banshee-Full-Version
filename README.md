@@ -255,3 +255,6 @@ This repository serves as the official landing page for **Banshee**. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Banshee today!**
+
+---
+**Last updated:** 2026-09-07 14:33:21 UTC
