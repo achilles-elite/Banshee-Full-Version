@@ -257,4 +257,4 @@ This repository serves as the official landing page for **Banshee**. The softwar
 **Get the most recent version of Banshee today!**
 
 ---
-**Last updated:** 2026-09-20 22:00:39 UTC
+**Last updated:** 2026-09-21 00:36:59 UTC
